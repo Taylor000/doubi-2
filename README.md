@@ -195,11 +195,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 - 脚本说明: iptables 端口转发 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-20/
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Taylor000/doubi-2/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
 ```
 
 ---
@@ -311,11 +310,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 - 脚本说明: ServerStatus 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc3/
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/status.sh && chmod +x status.sh && bash status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Taylor000/doubi-2/master/status.sh && chmod +x status.sh && bash status.sh
 ```
 
 ---
